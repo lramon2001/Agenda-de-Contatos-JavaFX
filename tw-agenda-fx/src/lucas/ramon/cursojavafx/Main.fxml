@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.control.Label?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="lucas.ramon.cursojavafx.MainController">
+	<center> 
+    <Label BorderPane.alignment="CENTER" text="Area de trabalho"></Label>
+	
+	</center>
+	<top> 
+	 <Label BorderPane.alignment="CENTER_LEFT" text="Topo"></Label>
+	
+	</top>
+	<bottom>
+	 <Label BorderPane.alignment="CENTER_RIGHT" text="Baixo"></Label>
+	
+	</bottom>
+	<left>
+	 <Label BorderPane.alignment="CENTER" text="PT"></Label>
+	
+	</left>
+	<right>
+	 <Label BorderPane.alignment="CENTER" text="BOLSONARO"></Label>
+	</right>
+</BorderPane>

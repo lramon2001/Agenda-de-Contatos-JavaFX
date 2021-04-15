@@ -1,4 +1,4 @@
-package application;
+package lucas.ramon.cursojavafx;
 
 public class MainController {
 	

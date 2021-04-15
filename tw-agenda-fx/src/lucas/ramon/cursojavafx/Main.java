@@ -1,4 +1,4 @@
-package application;
+package lucas.ramon.cursojavafx;
 	
 import javafx.application.Application;
 import javafx.stage.Stage;
