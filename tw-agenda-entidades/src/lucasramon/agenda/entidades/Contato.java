@@ -1,4 +1,4 @@
-package br.com.lucasramon.agenda.entidades;
+package lucasramon.agenda.entidades;
 
 public class Contato {
 
@@ -24,8 +24,5 @@ public class Contato {
 	public void setTelephone(int telephone) {
 		this.telephone = telephone;
 	}
-	
-	
-	
 	
 }

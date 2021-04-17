@@ -1,5 +1,11 @@
-package lucas.ramon.agenda.repositorios.interfaces;
+ package lucas.ramon.agenda.repositorios.interfaces;
 
-public interface AgendaRepositorio {
+import java.util.List;
 
+public interface AgendaRepositorio<T>{
+
+	List<T> selecionar();
+	void inserir(T entidade);
+	void atualizar(T entidade);
+    void excluir(T entidade);
 }
