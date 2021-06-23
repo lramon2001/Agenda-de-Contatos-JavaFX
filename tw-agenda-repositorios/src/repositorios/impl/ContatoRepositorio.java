@@ -1,0 +1,42 @@
+package repositorios.impl;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+
+import entidades.Contato;
+import repositorios.interfaces.AgendaRepositorio;
+
+public class ContatoRepositorio  implements AgendaRepositorio<Contato> {
+    private static List<Contato> listaContatos = new ArrayList<Contato>();
+    
+	@Override
+	public List<Contato> selecionar() {	
+		return listaContatos;
+	}
+
+	@Override
+	public void inserir(Contato entidade) {
+    listaContatos.add(entidade);
+		
+	}
+
+	@Override
+	public void atualizar(Contato entidade) {
+		Optional<Contato> original = listaContatos.stream().filter(contato->contato.getNome().equals(entidade.getNome())).findFirst();
+		if(original.isPresent()) {
+			original.get().setTelefone(entidade.getTelefone());
+			original.get().setIdade(entidade.getIdade());
+			
+		}
+		
+	}
+
+	@Override
+	public void excluir(Contato entidade) {
+		listaContatos.remove(entidade);
+		
+	}
+	
+
+}
