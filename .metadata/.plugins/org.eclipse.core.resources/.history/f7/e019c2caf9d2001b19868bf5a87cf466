@@ -1,6 +1,0 @@
-module tw-agenda- fx {
-	requires javafx.controls;
-	requires javafx.fxml;
-	
-	opens agendafx to javafx.graphics, javafx.fxml;
-}
