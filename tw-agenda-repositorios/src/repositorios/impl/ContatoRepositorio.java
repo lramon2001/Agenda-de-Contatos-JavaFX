@@ -23,13 +23,11 @@ public class ContatoRepositorio  implements AgendaRepositorio<Contato> {
 
 	@Override
 	public void atualizar(Contato entidade) {
-		Optional<Contato> original = listaContatos.stream().filter(contato->contato.getNome().equals(entidade.getNome())).findFirst();
-		if(original.isPresent()) {
-			original.get().setTelefone(entidade.getTelefone());
+		var original = listaContatos.stream().filter(contato -> contato.getNome().equals(entidade.getNome())).findFirst();
+		if (original.isPresent()) {
 			original.get().setIdade(entidade.getIdade());
-			
+			original.get().setTelefone(entidade.getTelefone());
 		}
-		
 	}
 
 	@Override
