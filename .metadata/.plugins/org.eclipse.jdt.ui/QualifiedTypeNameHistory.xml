@@ -5,4 +5,5 @@
     <fullyQualifiedTypeName name="entidades.Contato"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="javafx.scene.layout.VBox"/>
 </qualifiedTypeNameHistroy>
