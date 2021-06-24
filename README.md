@@ -1,5 +1,5 @@
 [![Série](https://img.shields.io/badge/lramon2001-AgendaDeContatos-blue)](https://github.com/lramon2001/PrimeiroProjetoJava)
-[![licence mit](https://img.shields.io/badge/licence-MIT-white.svg)](https://github.com/lramon2001/PrimeiroProjetoJava/blob/master/LICENSE)
+[![licence mit](https://img.shields.io/badge/licence-MIT-white.svg)](https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/blob/main/LICENSE.txt)
 ![language](https://img.shields.io/badge/languaqe-JavaFX-green)
 ![design](https://img.shields.io/badge/view-XML-yellow)
 
@@ -45,4 +45,4 @@ If you need to edit or delete an contact from the list, just click on the desire
 > **Consulte [Mudanças de commit]() para obter detalhes.**
 
 ## License / Licença
-[MIT License]() © [lramon](https://github.com/lramon2001)
+[MIT License](https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/blob/main/LICENSE.txt) © [lramon](https://github.com/lramon2001)
