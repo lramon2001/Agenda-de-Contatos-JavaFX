@@ -40,9 +40,9 @@ If you need to edit or delete an contact from the list, just click on the desire
 > **Esse projeto segue o modelo de [release]() para versionamento.**
 
 ## History / História
-- See [Commit changes]() for details.
+- See [Commit changes](https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/commits/main) for details.
 
-> **Consulte [Mudanças de commit]() para obter detalhes.**
+> **Consulte [Mudanças de commit](https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/commits/main) para obter detalhes.**
 
 ## License / Licença
 [MIT License](https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/blob/main/LICENSE.txt) © [lramon](https://github.com/lramon2001)
