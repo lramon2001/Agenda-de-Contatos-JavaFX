@@ -23,7 +23,7 @@ If you need to edit or delete an contact from the list, just click on the desire
 - Eclipse IDE;
 
 ## UML Class Diagram v2.5 / Diagrama de Classe UML v2.5
-<img src="" width="1200"/>
+<img src="https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/blob/main/agendaJavaFxdf.png" width="1200"/>
 
 ## Design done with SceneBuilder / Interface feita com SceneBuilder :
 ![Imagem Interface](https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/blob/main/agendaInterface.jpeg)
