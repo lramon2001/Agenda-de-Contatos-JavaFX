@@ -6,7 +6,7 @@
 :rocket: Project with OO approaches and Java applications. 
 
 > :rocket: **Projeto com abordagens de OO e aplicações em Java.**
-## CRUD 
+## Agenda de Contatos 
 Projeto elaborado durante as férias da Universidade para aperender mais sobre a tecnologia JavaFx assim como XML
 
 ## Como utilizar o produto/ How to use the product
@@ -21,6 +21,9 @@ If you need to edit or delete an contact from the list, just click on the desire
 - Java11;
 - JDK 11;
 - Eclipse IDE;
+
+## UML Class Diagram v2.5 / Diagrama de Classe UML v2.5
+![UMLdiagram]()
 
 ## Design done with SceneBuilder / Interface feita com SceneBuilder :
 ![Imagem Interface](https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/blob/main/agendaInterface.jpeg)
