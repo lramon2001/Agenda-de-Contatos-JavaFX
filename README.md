@@ -39,10 +39,10 @@ If you need to edit or delete an contact from the list, just click on the desire
 
 
 ## Versioning / Versionamento
-- This project follows the [release]() model for versioning.
+- This project follows the [release](https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/releases/tag/Agendav1.0) model for versioning.
 
 
-> **Esse projeto segue o modelo de [release]() para versionamento.**
+> **Esse projeto segue o modelo de [release](https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/releases/tag/Agendav1.0) para versionamento.**
 
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/Agenda-de-Contatos-JavaFX/commits/main) for details.
